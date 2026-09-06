@@ -1,0 +1,792 @@
+{
+  "version": 5,
+  "song_id": "koi_no_denshi_kairo",
+  "difficulty": "EASY",
+  "bpm": 143.6,
+  "offset": 0.0,
+  "notes": [
+    {
+      "time": 1.765,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 2.601,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 3.46,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 4.319,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 5.155,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 5.596,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 6.014,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 6.223,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 6.432,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 6.85,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 7.268,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 7.686,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 7.906,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 8.127,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 8.545,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 9.381,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 10.217,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 11.076,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 11.912,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 12.771,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 13.607,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 14.42,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 15.279,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 16.138,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 16.974,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 17.833,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 18.669,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 19.528,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 20.364,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 20.805,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 21.223,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 21.432,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 21.641,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 22.059,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 22.477,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 22.918,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 23.127,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 23.336,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 23.754,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 24.172,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 24.59,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 24.799,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 25.008,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 25.449,
+      "end_time": 27.094,
+      "expected_hits": 7,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0
+    },
+    {
+      "time": 27.144,
+      "end_time": 28.766,
+      "expected_hits": 7,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0
+    },
+    {
+      "time": 28.816,
+      "end_time": 30.461,
+      "expected_hits": 7,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0
+    },
+    {
+      "time": 30.511,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 30.929,
+      "end_time": 31.788,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 32.206,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 32.624,
+      "end_time": 33.483,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 33.901,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 34.319,
+      "end_time": 35.155,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 35.596,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 36.014,
+      "end_time": 36.85,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 37.268,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 37.686,
+      "end_time": 38.545,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 38.986,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 39.404,
+      "end_time": 40.24,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 40.658,
+      "end_time": 42.28,
+      "expected_hits": 7,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0
+    },
+    {
+      "time": 42.33,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 42.748,
+      "end_time": 43.607,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 44.025,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 44.466,
+      "end_time": 45.302,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 45.72,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 46.161,
+      "end_time": 46.997,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 47.415,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 47.833,
+      "end_time": 48.669,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 49.11,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 49.528,
+      "end_time": 50.387,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 50.805,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 51.223,
+      "end_time": 52.059,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 52.477,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 52.918,
+      "end_time": 53.754,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 54.172,
+      "end_time": 55.817,
+      "expected_hits": 7,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0
+    },
+    {
+      "time": 55.867,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 56.285,
+      "end_time": 57.144,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 57.562,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 57.98,
+      "end_time": 58.816,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 59.257,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 59.675,
+      "end_time": 60.511,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 60.929,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 61.37,
+      "end_time": 62.206,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 62.624,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 63.042,
+      "end_time": 63.901,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 64.319,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 64.737,
+      "end_time": 65.596,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 66.014,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 66.432,
+      "end_time": 67.268,
+      "expected_hits": 5,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0,
+      "from_burst": true
+    },
+    {
+      "time": 67.709,
+      "end_time": 69.331,
+      "expected_hits": 7,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0
+    },
+    {
+      "time": 69.381,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 69.822,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 70.24,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 70.449,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 70.658,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 71.076,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 71.935,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 72.771,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 73.189,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 73.607,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 73.816,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 74.025,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 74.443,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 74.884,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 75.302,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 75.511,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 75.72,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 76.138,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 76.579,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 76.997,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 77.206,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 77.415,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 77.833,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 78.251,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 78.669,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 78.89,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 79.11,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    },
+    {
+      "time": 79.528,
+      "end_time": 81.173,
+      "expected_hits": 7,
+      "kind": "roll",
+      "type": "roll",
+      "lane": 0
+    },
+    {
+      "time": 81.223,
+      "type": "tap",
+      "kind": "tap",
+      "lane": 0
+    }
+  ],
+  "memo": "タンバリン伴奏パターン生成(タンタンタタタン+盛り上がり連動+ロール) | v32:4連符以上をロール化"
+}

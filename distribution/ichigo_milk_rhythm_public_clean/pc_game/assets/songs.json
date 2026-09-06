@@ -1,0 +1,36 @@
+[
+  {
+    "id": "kirameki_love_tambourine",
+    "title": "きらめきラブタンバリン",
+    "artist": "位置GOMILK / いちごみるく",
+    "audio": "assets/audio/kirameki_love_tambourine.mp3",
+    "cover": "assets/covers/kirameki_love_tambourine.png",
+    "mv": "assets/kirameki_love_tambourine_mv.mp4",
+    "bpm": 129.2,
+    "offset": 0.0,
+    "chart": "charts/kirameki_love_tambourine_easy.json",
+    "duration": 80.62
+  },
+  {
+    "id": "koi_no_denshi_kairo",
+    "title": "恋の電子回路",
+    "artist": "位置GOMILK / いちごみるく",
+    "audio": "assets/audio/koi_no_denshi_kairo.mp3",
+    "cover": "assets/covers/koi_no_denshi_kairo.png",
+    "bpm": 143.6,
+    "offset": 0.0,
+    "chart": "charts/koi_no_denshi_kairo_easy.json",
+    "duration": 83.03
+  },
+  {
+    "id": "manatsu_triangle",
+    "title": "真夏の恋のトライアングル",
+    "artist": "位置GOMILK / いちごみるく",
+    "audio": "assets/audio/manatsu_triangle.mp3",
+    "cover": "assets/covers/manatsu_triangle.png",
+    "bpm": 136.0,
+    "offset": 0.0,
+    "chart": "charts/manatsu_triangle_easy.json",
+    "duration": 85.82
+  }
+]
