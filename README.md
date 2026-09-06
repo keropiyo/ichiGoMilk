@@ -1,5 +1,6 @@
 # 位置GO MILK 〜アイドルライフゲーム〜
-
+![位置GO MILK スタート画面](pc_game/assets/logo/start_screen.png)
+![位置GO MILK タイトル背景](pc_game/assets/logo/title_bg.png)
 ## このゲームについて
 
 この物語は、デビュー曲から3曲目まででベストテン第1位を取れなければ解散という条件で、アイドルとしてデビューし奮闘するアイドルライフゲームである！
